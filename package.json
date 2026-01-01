@@ -1,0 +1,25 @@
+{
+  "name": "import-code-xml",
+  "version": "1.0.0",
+  "description": "CLI tool to import code files from an XML manifest with diff support, auto-skip identical files, and force-overwrite option",
+  "bin": {
+    "import-code": "./bin/import_code.js"
+  },
+  "main": "bin/import_code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "code",
+    "import",
+    "xml",
+    "diff",
+    "overwrite"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+}
