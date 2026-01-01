@@ -17,7 +17,7 @@
     "diff",
     "overwrite"
   ],
-  "author": "Your Name",
+  "author": "William Yeung",
   "license": "MIT",
   "dependencies": {
     "xml2js": "^0.6.2"
